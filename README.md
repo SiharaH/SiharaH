@@ -1,6 +1,6 @@
 <!-- ==================== Profile Banner ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=SIHARA%20EDIRISINGHE&textBg=false&fontColor=F37199&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20|%20MERN%20STACK%20|%20AI&descAlignY=75&descAlign=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=SIHARA%20EDIRISINGHE&textBg=false&fontColor=F37199&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20|%20MERN%20STACK%20|%20AI&descAlignY=75&descAlign=70&fontSize=55"/>
 </p>
 
 ---
