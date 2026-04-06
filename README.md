@@ -30,8 +30,17 @@ I specialize in building scalable, user-friendly web and mobile applications usi
 
 ## 🌟 Featured Projects
 
-- **🛍️ ZeroZ Cloths** — Full-featured e-commerce platform built with the MERN Stack, including authentication, product reviews, shopping cart, order management, and admin dashboard.  
-  [View Repository →](https://github.com/SiharaH/ZeroZ-Cloths)
+- **✨ZeroZ Cloths** — Full-featured e-commerce platform built with the MERN Stack, including authentication, product reviews, shopping cart, order management, and admin dashboard.  
+  [View Repository →](https://github.com/sihina3436/ZerozClothes)
+
+- **✨BookGenie** — AI-powered book recommendation and management platform.  
+  [View Repository →](https://github.com/SiharaH/BookGenie)
+
+- **✨Vanessa** — Modern Ecommerce application.  
+  [View Repository →](https://github.com/SiharaH/Vanessa)
+
+- **✨Sihara Constructions** — Professional website for construction company with project showcasing and management features.  
+  [View Repository →](https://github.com/SiharaH/Sihara-Constructions)
 
 ---
 
